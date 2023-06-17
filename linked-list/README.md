@@ -26,4 +26,4 @@ linkedList.insert(20);
 linkedList.insert(30);
 console.log(linkedList.toString()); 
 console.log(linkedList.includes(20)); 
-console.log(linkedList.includes(40)); 
+console.log(linkedList.includes(40));
