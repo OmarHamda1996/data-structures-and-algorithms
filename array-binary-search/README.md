@@ -24,4 +24,3 @@ The `binarySearch` function takes in two parameters: a sorted array and the sear
 ## Usage
 
 To use the binary search algorithm, call the `binarySearch` function with a sorted array and a search key.
-
