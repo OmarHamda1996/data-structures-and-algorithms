@@ -1,4 +1,6 @@
-# Finding the Maximum Value in a Binary Tree
+# Challenge Title
+
+Finding the Maximum Value in a Binary Tree
 
 ## Whiteboard Process
 
